@@ -2,9 +2,11 @@
 
 
 Roadmap-https://whimsical.com/operating-system-cheatsheet-by-love-babbar-S9tuWBCSQfzoBRF5EDNinQ
-Operating 
 
-System Interview Questions
+
+
+
+Operating System Interview Questions-
 
 1. Why is the operating system important?
 
